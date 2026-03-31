@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fear",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-03-31T08:14:07.703875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Don't Fear) The Reaper",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/01_(Don't_Fear)_The_Reaper_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Fear Of Being Alone",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_The_Fear_Of_Being_Alone_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Count (aka Hervé) And Lily Face the Fear",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/03_The_Count_(aka_Hervé)_And_Lily_Face_the_Fear_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Count [aka Herve] & Lily Face The Fear [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/04_The_Count_[aka_Herve]_&_Lily_Face_The_Fear_[Special_Track]_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Fear",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/05_The_Fear_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Fear - Acoustic",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/06_The_Fear_-_Acoustic_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Fear [Acoustic]",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/07_The_Fear_[Acoustic]_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mutual Fear (feat. Jon Mess)",
+      "artist": "Eidola feat. Jon Mess",
+      "has_synced": true,
+      "path": "select/08_Mutual_Fear_(feat._Jon_Mess)_Eidola_feat._Jon_Mess.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mutual Fear (feat. Jon Mess)",
+      "artist": "Eidola",
+      "has_synced": true,
+      "path": "select/09_Mutual_Fear_(feat._Jon_Mess)_Eidola.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Creature Fear",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/10_Creature_Fear_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One They Fear",
+      "artist": "Jeremy Soule",
+      "has_synced": false,
+      "path": "select/11_One_They_Fear_Jeremy_Soule.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Call 1-800-fear",
+      "artist": "Lali Puna",
+      "has_synced": true,
+      "path": "select/12_Call_1-800-fear_Lali_Puna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fear Of God",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/13_Fear_Of_God_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Le Loup (Fear Not)",
+      "artist": "Le Loup",
+      "has_synced": false,
+      "path": "select/14_Le_Loup_(Fear_Not)_Le_Loup.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Waves of Fear",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/15_Waves_of_Fear_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Fear",
+      "artist": "Maps",
+      "has_synced": true,
+      "path": "select/16_Don't_Fear_Maps.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fear & Love",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/17_Fear_&_Love_Morcheeba.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fear",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Fear_SEVENTEEN.txt"
+    }
+  ]
+}
